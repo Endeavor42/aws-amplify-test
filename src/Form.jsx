@@ -22,6 +22,7 @@ function form() {
               id="outlined-required"
               label="Password"
               variant="outlined"
+              type="password"
             />
           </div>
         </div>
