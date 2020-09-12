@@ -4,7 +4,7 @@ import { TextField } from "@material-ui/core";
 
 function form() {
   return (
-    <div className="body">
+    <div className="container">
       <div className="card">
         <div className="content__container">
           <h3>Sign In</h3>
